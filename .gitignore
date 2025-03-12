@@ -1,0 +1,10 @@
+/*.json
+/*.fb2
+/chapters_eng/
+/chapters_rus/
+/chapters_translated/
+/raw_chapters_eng/
+/raw_chapters_rus/
+/raw_chapters_translated/
+/word_translation_parser_responses/
+.env
